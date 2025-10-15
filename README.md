@@ -51,9 +51,7 @@
 </body>
 </html>
 <header class="hero">
-  <img src="images/brou-l<img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/1ef4c08f-bdac-4956-86d6-32f5324e3d66" />
-ogo.png" alt="Brou Cafe Logo" class="logo">
-  <h1>Brou Cafe</h1>
+  <img src="images/brou-logo.png" alt="Brou Cafe Logo" class="logo">
   <p>Şehrin en lezzetli kahvesi burada!</p>
 </header>
 
