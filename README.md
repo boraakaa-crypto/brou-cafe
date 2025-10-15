@@ -32,7 +32,7 @@
 
   <section class="location">
     <h2>Konum & Çalışma Saatleri</h2>
-    <p>📍 İstanbul, Kadıköy<br>
+    <p>📍 UŞAK, MERKEZ<br>
     🕒 Pazartesi - Cumartesi: 08:00 - 22:00<br>
     Pazar: 09:00 - 20:00</p>
   </section>
@@ -50,3 +50,9 @@
 
 </body>
 </html>
+<header class="hero">
+  <img src="images/brou-logo.png" alt="Brou Cafe Logo" class="logo">
+  <h1>Brou Cafe</h1>
+  <p>Şehrin en lezzetli kahvesi burada!</p>
+</header>
+
